@@ -1,13 +1,9 @@
 CE6105 Linux OS_Project1_Group36
 ===
 
-[「Project1 Description」](https://staff.csie.ncu.edu.tw/hsufh/COURSES/FALL2024/linux_project_1.html)
-
-### 👪 G36 Members
-- 110605006 資工四B 劉韶颺
-- 112523018 通訊碩二 吳岱安
-- 112523021 通訊碩二 林湛凱
-
+## 「Project1 Description」
+- Project_Description.md
+- [CE6105_Fall2024_LinuxOS_Course Page](https://staff.csie.ncu.edu.tw/hsufh/COURSES/FALL2024/linux_project_1.html)
 
 ## 1. How to get the Physical address?
 

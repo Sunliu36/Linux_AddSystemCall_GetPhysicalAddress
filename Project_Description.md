@@ -5,7 +5,7 @@ In this project, you need to write a new system call `void * my_get_physical_add
 
 The return value of this system call is either 0 or an address value. 0 means that there is no physical address assigned to the logical address currently. A non-zero value means the physical address of the logical address submitted to the system call as its parameter (in fact, this address is only the offset of a logical address).
 
-## Question 1 (50 points)
+## Question 1 
 The following is an example code which you can use to see the effect of copy-on-write.
 
 ```c
@@ -63,7 +63,7 @@ int main()
 }
 ```
 
-## Question 2 (50 points)
+## Question 2
 The following is an example code which you can use to check whether a loader loads all data of a process before executing it.
 
 ```c
